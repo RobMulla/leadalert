@@ -3,9 +3,9 @@
 Lead Alert public data repository
 
 Created and Maintained by:
-    - Michael Amodeo: amodeo@berkeley.edu
-    - Jennifer Casper: jenncasper@berkeley.edu
-    - Robert Mulla: rob.mulla@berkeley.edu
+- Michael Amodeo: amodeo@berkeley.edu
+- Jennifer Casper: jenncasper@berkeley.edu
+- Robert Mulla: rob.mulla@berkeley.edu
 
 ## Background
 Lead has been known to be harmful to humans even in small doses for over 50 years. Exposure to even low levels of lead can result in damage to the central and peripheral nervous system, learning disabilities, impaired function of blood cells, stunted growth, cardiovascular effects, and many other problems. Despite regulations restricting lead in building materials, children are still experiencing lead poisoning at alarming rates. While the Flint water crisis has brought renewed attention to this issue, investigations have shown many communities across the country with rates of lead poisoning in children exceeding that of Flint. The persistence of this major public health problem and the creation of new relevant datasets create an opportunity to apply new thinking and
